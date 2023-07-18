@@ -8,8 +8,6 @@
 
 - 💬 Ask me about **Flutter,MEARN**
 
-- 📫 How to reach me  **859204948@qq.com**
-
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
