@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm xuergo</h1>
-<h3 align="center">A developer from China</h3>
+
 
 <p align="left"> <a href="" alt="" /></a> </p>
 
